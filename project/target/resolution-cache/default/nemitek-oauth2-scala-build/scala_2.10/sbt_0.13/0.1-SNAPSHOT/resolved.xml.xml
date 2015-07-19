@@ -4,7 +4,7 @@
 		module="nemitek-oauth2-scala-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20150710040807"
+		publication="20150712030648"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
